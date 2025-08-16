@@ -1,0 +1,25 @@
+Frontend
+
+npm create vite@latest .
+
+npm run dev
+
+
+Backend
+npm i express dotenv cookie-parser bcryptjs mongoose socket.io jsonwebtoken
+
+dotenv - to hide data or links in a variable
+bcryptjs - hash password
+socket.io - real time chat
+
+//can use import in file instead of file bcoz in package.json type:"module"
+
+
+//Databse
+
+MongoDb Atlas create a cluster save password in it print in env file
+
+make connectToMongoDb
+
+make user model 
+in auth.controller all function is there
