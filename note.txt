@@ -4,6 +4,8 @@ npm create vite@latest .
 
 npm run dev
 
+using daisy UI
+
 
 Backend
 npm i express dotenv cookie-parser bcryptjs mongoose socket.io jsonwebtoken
