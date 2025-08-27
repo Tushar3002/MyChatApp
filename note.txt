@@ -6,6 +6,10 @@ npm run dev
 
 using daisy UI
 
+npm i react-router-dom after this added BrowserRouter tag in main.jsx
+npm i react-hot-toast 
+
+
 
 Backend
 npm i express dotenv cookie-parser bcryptjs mongoose socket.io jsonwebtoken
